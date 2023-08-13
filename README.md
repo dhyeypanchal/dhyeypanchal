@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhyey Panchal</h1>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-
 <img align="right" alt="web developer" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZkenU3dmpjYnQwcXN0cWE3cWppZmQ2bHRpMTRhb2s1Z3dtNnVlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyeypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="dhyeypanchal" /> </p>
 
 - 🔭 I’m currently pursuing **BE(Information Technology) at LDCE.**
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/dhyey panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyey panchal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
